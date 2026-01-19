@@ -60,6 +60,9 @@
 !**/content/**/index.md
 !index.md
 
+!export/
+!export/**
+
 !156 PROYECTO BD/
 !156 PROYECTO BD/**
 
