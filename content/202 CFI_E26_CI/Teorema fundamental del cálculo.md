@@ -1,6 +1,7 @@
 ---
 scope: Específico
 ancestro_directo: "[[2. Las integrales definidas e indefinidas]]"
+theme: white
 ---
 > [!important] Teorema Fundamental del Cálculo
 > Si $f(x)$ es una función que cumple con las siguientes condiciones:
@@ -9,8 +10,5 @@ ancestro_directo: "[[2. Las integrales definidas e indefinidas]]"
 > 
 > Entonces, $F(x)$ siendo cualquier antiderivada de $f(x)$ en el intervalo $[a,b]$, se cumple:
 > 
-> $$\boxed{\int_{a}^{b}{f(x)\,dx} = F(b) - F(a)}$$
+> $$\boxed{\int_{a}^{b}{f(x)\ dx} = F(b) - F(a)}$$
 
----
-
-$$\int_{a}^{b}{f(x)\,dx} = F(b) - F(a)$$
